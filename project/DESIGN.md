@@ -1,15 +1,6 @@
 # Utae
 
-By Carlos Neto, from Manaus, Brazil
-
-Git: aka1Neto
-
-Edx: ue_genio
-
-Recorded on 19/05
-
-
-Video overview: <[URL HERE](https://youtu.be/-ajT77PqHDI)>
+Video overview: <[Utae - Youtube](https://youtu.be/-ajT77PqHDI)>
 
 ## Scope
 
